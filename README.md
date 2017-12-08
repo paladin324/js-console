@@ -1,5 +1,5 @@
 # js-console
-A simplistic little website which allows you to evaluate JavaScript fragments. Primarily ment for use on mobile devices.
+A simple little website which allows you to evaluate JavaScript fragments. Primarily ment for use on mobile devices.
 
 [Demo](http://awesome-goldberg-53e9c4.bitballoon.com/)
 
